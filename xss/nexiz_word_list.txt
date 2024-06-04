@@ -91,5 +91,11 @@ lastUrlq
 asclurl
 successUrl
 autoredirect
+currentURL
+lastUrlq
+asclurl
+successUrl
+autoredirect
+
 
 
